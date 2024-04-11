@@ -1,10 +1,10 @@
-# Renton Technical College CSI-248
+# Renton Technical College CSI-246
 
 <br />
 
 ![Alt text](Images/logo.jpg)
 
-This repository is a part of CSI-248 at Renton Technical College.
+This repository is a part of CSI-246 at Renton Technical College.
 
 ## Independent Activity 1 - Components and props
 
